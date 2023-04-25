@@ -1,0 +1,24 @@
+    .figu
+    {
+        background-color: white;
+        color: black;
+        border: 2px solid black;
+        margin: 20px;
+        padding: 20px;
+    }
+    .link
+    {
+        background-color: rgb(186, 153, 201);
+        color: black;
+        border: 2px solid rgb(0, 0, 0);
+        margin: 5px;
+        padding: 5px;
+    }
+    .pa
+    {
+        background-color: rgb(174, 207, 220);
+        color: black;
+        border: 2px solid rgb(0, 0, 0);
+        margin: 5px;
+        padding: 5px;
+    }
